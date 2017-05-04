@@ -1,0 +1,37 @@
+
+body {
+    font-family: 'Slabo 27px', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Ultra', serif;
+}
+
+h1 {
+    font-size: 4.2rem;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+hr {
+    border-top: 3px double #8c8b8b;
+}
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#knob {
+    transform: rotate(0);
+    margin: 0 auto;
+    width: 25%;
+}
